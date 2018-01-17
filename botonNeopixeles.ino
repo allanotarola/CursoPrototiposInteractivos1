@@ -4,7 +4,7 @@ Reto2: Encender neoPixeles con un boton.
 Fecha: 7/11/17
 */
 
-#include <Adafruit_CircuitPlayground.h>
+#include <Adafruit_CircuitPlayground.h> /// prueba
 #include <Adafruit_Circuit_Playground.h>
 
 
